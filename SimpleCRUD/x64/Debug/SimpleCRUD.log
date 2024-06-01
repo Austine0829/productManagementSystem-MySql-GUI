@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+  ViewProducts.cpp
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(342,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(386,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(414,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(439,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(477,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\MyForm.h(247,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\MyForm.h(266,34): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\MyForm.h(268,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\MyForm.h(306,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(342,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(386,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(414,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(439,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\ViewProducts.h(477,21): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SimpleCRUD.vcxproj -> C:\Users\Miel\source\repos\SimpleCRUD\x64\Debug\SimpleCRUD.exe

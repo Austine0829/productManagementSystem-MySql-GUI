@@ -1,0 +1,5 @@
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\x64\Debug\SimpleCRUD.vcxproj.AssemblyReference.cache
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\x64\Debug\SimpleCRUD.MyForm.resources
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\x64\Debug\SimpleCRUD.vcxproj.GenerateResource.cache
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\x64\Debug\SimpleCR.B600A36E.Up2Date
+C:\Users\Miel\source\repos\SimpleCRUD\SimpleCRUD\x64\Debug\SimpleCRUD.ViewProducts.resources
